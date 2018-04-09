@@ -1,0 +1,6 @@
+09/06/16 01:05:43	[5412]	TRACE	write log info
+09/06/16 01:05:59	[5412]	TRACE	
+09/06/16 01:06:01	[11212]	INFO	fsdfdsfds
+09/06/16 01:06:01	[11212]	INFO	thread data write....
+09/06/16 01:06:03	[6856]	INFO	fsdfdsfds
+09/06/16 01:06:03	[6856]	INFO	thread data write....

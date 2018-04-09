@@ -1,0 +1,14 @@
+09/06/16 02:34:09	[11012]	INFO	write log info
+09/06/16 02:34:09	[11012]	INFO	
+09/06/16 02:36:30	[3672]	INFO	write log info
+09/06/16 02:36:30	[3672]	INFO	
+09/06/16 02:36:30	[7884]	INFO	fsdfdsfds
+09/06/16 02:36:30	[7884]	INFO	thread data write....
+09/06/16 02:36:30	[10664]	INFO	fsdfdsfds
+09/06/16 02:36:30	[10664]	INFO	thread data write....
+09/06/16 02:36:53	[11912]	INFO	write log info
+09/06/16 02:36:53	[11912]	INFO	
+09/06/16 02:36:53	[8088]	INFO	fsdfdsfds
+09/06/16 02:36:53	[8088]	INFO	thread data write....
+09/06/16 02:36:53	[5288]	INFO	fsdfdsfds
+09/06/16 02:36:53	[5288]	INFO	thread data write....
