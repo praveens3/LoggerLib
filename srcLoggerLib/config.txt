@@ -1,0 +1,5 @@
+logname=LOGNEWh  
+logsize=1
+loglevel=info
+rotatebysize=true
+rotatebyday=false
